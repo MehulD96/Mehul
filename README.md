@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @MehulD96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MehulD96/MehulD96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---># 💫 About Me:
+- 👋 Hi, I’m @MehulD96
+- 👀 I’m interested in Software development and Data science.
 🔭 I’m currently an aspirant for a job.<br>👯 I’m looking to collaborate on software development, software testing and Data science.<br>🤝 I’m looking for help with Data science.<br>🌱 I’m currently learning Web application and Data science.<br>💬 Ask me about Python.<br>
 
 
