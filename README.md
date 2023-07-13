@@ -31,11 +31,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ### Visit count
-[![](https://visitcount.itsvg.in/api?id=m&icon=7&color=12)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=MehulD96&icon=7&color=12)](https://visitcount.itsvg.in)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MehulD96&icon=7&color=12)](https://visitcount.itsvg.in)
 
