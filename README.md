@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ---># 💫 About Me:
 
 👀 I’m interested in Software development and Data science.<br>
-🔭 I’m currently an aspirant for a job.<br>👯 I’m looking to collaborate on software development, software testing, Automation and Data science.<br>🤝 I’m looking for help with Data science.<br>🌱 I’m currently learning Web application and Data science.<br>💬 Ask me about Python.<br>
+🔭 I’m currently an aspirant for a job.<br>👯 I’m looking to collaborate on software development, software testing, Automation and Data science.<br>🤝 I’m looking for help with Data science.<br>🌱 I’m currently learning Data science.<br>💬 Ask me about Python.<br>
 
 
 ## 🌐 Socials:
